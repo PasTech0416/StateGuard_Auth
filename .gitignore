@@ -1,0 +1,5 @@
+node_modules/
+sessions/
+.session-file-store-cache/
+cookie.txt
+package-lock.json
